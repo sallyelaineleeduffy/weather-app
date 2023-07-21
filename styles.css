@@ -1,0 +1,75 @@
+.container {
+  border: 2px solid #43b02a;
+  width: 40%;
+  padding: 20px 60px;
+  margin-top: 20px;
+}
+.form-label {
+  display: block;
+  border: 2px solid #43b02a;
+  color: #63666a;
+  border-radius: 4px;
+  margin-top: 40px;
+  margin-right: 20px;
+  padding: 15px;
+  width: 100%;
+}
+.form-button {
+  display: block;
+  border: 2px solid #43b02a;
+  border-radius: 4px;
+  margin-top: 40px;
+  padding: 15px;
+  width: 100%;
+  background-color: #43b02a;
+  color: white;
+  transition: 200ms all ease-in-out;
+}
+.form-button:hover {
+  border: 2px solid #43b02a;
+  border-radius: 4px;
+  background-color: white;
+  color: #43b02a;
+}
+h1 {
+  color: #63666a;
+}
+.temperature {
+  color: #63666a;
+  font-size: 34px;
+}
+h3 {
+  color: #63666a;
+}
+h5 {
+  color: #63666a;
+  font-size: 16px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+#celsius-link {
+  font-size: 14px;
+  color: #63666a;
+}
+#celsius-link:hover {
+  color: #43b02a;
+}
+#fahrenhit-link {
+  font-size: 14px;
+  color: #63666a;
+}
+#fahrenhit-link:hover {
+  color: #43b02a;
+}
+button {
+  display: block;
+  border: 2px solid #43b02a;
+  border-radius: 4px;
+  margin-top: 40px;
+  padding: 15px;
+  width: 100%;
+  background-color: #43b02a;
+  color: white;
+  transition: 200ms all ease-in-out;
+}

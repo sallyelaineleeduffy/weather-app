@@ -74,7 +74,8 @@ button {
   transition: 200ms all ease-in-out;
 }
 a {
-  display: block;
-  margin: 0 auto;
+  text-align: center;
+}
+p {
   text-align: center;
 }

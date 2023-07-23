@@ -73,3 +73,7 @@ button {
   color: white;
   transition: 200ms all ease-in-out;
 }
+small {
+  display: block;
+  margin: 0 auto;
+}
